@@ -1,3 +1,3 @@
-There should be a merge conflict on the following line.
+There shouldn't be a merge conflict on the following line.
 
-conflict2
+There is no conflict
